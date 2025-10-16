@@ -1,16 +1,30 @@
-# to_do_app
+# 📝 To-Do App
 
-A new Flutter project.
+A simple Flutter app to manage daily tasks.  
+You can add, update, and delete tasks easily with a clean and responsive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
+- Add new tasks  
+- Mark tasks as done  
+- Delete tasks  
+- Local database using **SQLite**
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##  Built With
+- Flutter  
+- Dart  
+- Sqflite  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+##  Demo Video
+You can watch the demo video on OneDrive [here](your-link-here)
+
+---
+
+## 👩‍💻 Developer
+**Kawther Walid**  
+[GitHub Profile](https://github.com/KawtherWaliddd)
